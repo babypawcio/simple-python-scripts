@@ -19,4 +19,4 @@ a collection of simple python scripts that can make your daily work a little eas
  
 	 simple downloading youtube video with a little help of pytube library
 
-  	![yt](https://user-images.githubusercontent.com/107136361/222554181-4f787782-5c35-4e2c-ab56-fbbbdf6a1cf4.png)
+	![yt](https://user-images.githubusercontent.com/107136361/222555701-895d4253-5c24-4b51-ac6f-b120b9e23c73.png)
